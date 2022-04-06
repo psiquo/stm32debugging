@@ -1,0 +1,6 @@
+../Core/Src/examples.c:8:6:add	16	static
+../Core/Src/examples.c:12:6:example_break	16	static
+../Core/Src/examples.c:29:6:example_watchpoint	416	static
+../Core/Src/examples.c:38:6:example_variables	48	static
+../Core/Src/examples.c:58:6:example_expressions	16	static
+../Core/Src/examples.c:70:6:example_memory	16	static

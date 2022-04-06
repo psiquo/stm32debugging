@@ -1,0 +1,4 @@
+../Core/Src/exercise2.c:6:5:swap	16	static
+../Core/Src/exercise2.c:13:5:b_swap	16	static
+../Core/Src/exercise2.c:17:6:b_sort	24	static
+../Core/Src/exercise2.c:27:6:exercise2	56	static
